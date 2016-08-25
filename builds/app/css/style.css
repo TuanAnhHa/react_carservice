@@ -1,0 +1,159 @@
+/**  General Settings **/
+body{
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: 2em;
+  position: relative;
+  background-color: #337ab7;
+  font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 100;
+  margin: 0;
+}
+
+/**  Header Navigation **/
+header .navbar {
+  margin-bottom: 0;
+}
+
+header .navbar-default {
+  background-color: black;
+  border: none;
+  padding: 10px 0;
+}
+
+/**  Navbar Brand **/
+header .navbar-brand h1 {
+  color: white;
+  margin: 0 auto;
+  font-size: 1.3em;
+  font-weight: 400;
+}
+
+.main {
+  background: white;
+  padding: 30px 0;
+}
+
+/** Introduction **/
+div#intro {
+    margin: 35px 0 50px;
+}
+
+div#intro h1 {
+    text-align: center;
+}
+
+/**  Footer **/
+footer {
+  background: black;
+  color: white;
+  padding: 25px 0;
+}
+
+footer a {
+  color: #E0E6AE;
+}
+
+footer a:hover {
+  color: #EEC856 !important;
+}
+
+footer .phone {
+  font-size: 1.4em;
+  font-weight: 700;
+  color: #E0E6AE;
+}
+
+footer .navbar {
+  margin-bottom: 0;
+  min-height: 0;
+}
+
+footer .navbar-default {
+  background-color: transparent;
+  border: none;
+  margin-right: 40px;
+}
+
+footer .navbar-nav>li a {
+  padding-top: 0;
+  padding-bottom: 0;
+  text-decoration: underline;
+  color: #EEC856 !important;
+}
+
+
+/**  Interface Styles **/
+.panel-primary>.panel-heading {
+    background-color: black;
+    border-color: black;
+}
+
+.apt-addheading {
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */
+}
+
+.item-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  margin: 10px 5%;
+  font-size: 1rem;
+}
+
+.item-list .car-item {
+  border-bottom: 1px solid gray;
+  padding-bottom: 15px;
+}
+
+.item-list .car-item:last-child {
+  border-bottom: none;
+}
+
+.item-list .car-name {
+  font-weight: 600;
+  color: #EEC856;
+  font-size: 1.3em;
+  line-height: 100%;
+}
+
+.item-list .car-info {
+  font-size: 1.7em;
+}
+
+.item-list .label-item {
+  font-weight: 600;
+  color: #667B82;
+}
+
+.item-list .car-delete {
+  font-size: 1.2em;
+}
+
+.item-list .apt-date {
+  font-style: italic;
+}
+
+.item-list .apt-notes {
+
+}
+
+.search-appointments {
+    margin-bottom: 35px;
+}
+
+span.apt-date {
+    padding-right: 15px;
+}
+
+div.panel-primary {
+    margin-top: 25px;
+}

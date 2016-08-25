@@ -1,0 +1,32 @@
+[
+  {
+    "carName": "BMW",
+    "ownerName": "Peter Harrod",
+    "aptDate": "2016-08-20 10:30",
+    "aptNotes": "Uneven tyre wear"
+  },
+  {
+    "carName": "Sedan",
+    "ownerName": "John Smith",
+    "aptDate": "2016-08-24 18:30",
+    "aptNotes": "Problems starting the engine"
+  },
+  {
+    "carName": "VW Pollo",
+    "ownerName": "Steve Bellingham",
+    "aptDate": "2016-08-22 11:50",
+    "aptNotes": "Air conditioner not working."
+  },
+  {
+    "carName": "Honda Civic",
+    "ownerName": "Micheal Goldwyn",
+    "aptDate": "2016-08-21 9:15",
+    "aptNotes": "Engine overheating."
+  },
+  {
+    "carName": "Mecedes",
+    "ownerName": "Josh Williams",
+    "aptDate": "2016-08-21 19:10",
+    "aptNotes": "Noisy brakes"
+  }
+]
